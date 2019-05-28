@@ -23,7 +23,10 @@ npm i netlify-lambda
 exports.handler = (event, context, callback) => {
   callback(null, {
     statusCode: 200,
-    body: 'your msg here'
+    body: 'your msg here',
+    headers: {
+      'Access-Control-Allow-Origin': '*'
+    }
   })
 )
 ```
