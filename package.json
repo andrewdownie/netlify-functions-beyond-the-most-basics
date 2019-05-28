@@ -1,0 +1,25 @@
+{
+  "name": "standalone-serverless-backend-using-netlify-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify-lambda serve src",
+    "build": "netlify-lambda build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewdownie/standalone-serverless-backend-using-netlify-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewdownie/standalone-serverless-backend-using-netlify-lambda/issues"
+  },
+  "homepage": "https://github.com/andrewdownie/standalone-serverless-backend-using-netlify-lambda#readme",
+  "dependencies": {
+    "netlify-lambda": "^1.4.13"
+  }
+}
