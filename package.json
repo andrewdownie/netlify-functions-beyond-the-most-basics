@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "faunadb": "^2.6.1",
     "netlify-lambda": "^1.4.13"
   }
 }
