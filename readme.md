@@ -1,4 +1,8 @@
-I basically just slightly repackaged this tutorial for usage as a stand alone backend: https://www.netlify.com/docs/functions/#tools-for-building-javascript-functions
+I basically just slightly repackaged this tutorial for usage as a stand alone backend:  
+https://www.netlify.com/docs/functions/#tools-for-building-javascript-functions  
+
+This tutorial is a part of this series:  
+https://github.com/andrewdownie/netlify-series
 
 ## 1) Create a git repo and clone it down
 Netlify requires a git repo to deploy from
