@@ -57,3 +57,6 @@ exports.handler = (event, context, callback) => {
 
 ## 8) Use the netlify web interface to select you git repo and deploy it as a netlify functions service
 Once it's deployed, click the green preview button that appears, and append /.netlify/functions/test to the url you are taken to, to see your simple function in action
+
+Next tutorial:  
+https://github.com/andrewdownie/netlify-and-faunadb
